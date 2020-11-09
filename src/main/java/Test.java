@@ -13,7 +13,7 @@ public class Test {
 		p1.ajouterOrange(new Orange("Floride", 1.35)); 	
 		
 		System.out.println(p1.getPrix());
-		System.out.println(p1.getOranges());
+		
 		
 
 	}
