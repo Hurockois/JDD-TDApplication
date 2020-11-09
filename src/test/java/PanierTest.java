@@ -7,6 +7,7 @@ import org.junit.rules.ExpectedException;
 
 /*
  * 
+ * 
  * @ Before : pour les initialisations de p1, p2. 
  * throw: une nouvelle méthode : avec l'indication que ca doit retourner une exception @Test ( expected=....)
  * l'égalité des paniers
